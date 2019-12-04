@@ -1,5 +1,1 @@
-puts Hello World! # Correct this to "Hello World!"
-
-# Your entire program should read:
-# puts "Hello World!"
-"hello_world"
+puts Hello World! 
